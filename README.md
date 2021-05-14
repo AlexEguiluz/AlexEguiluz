@@ -1,5 +1,5 @@
 
-### :wave: Hi, I am Alexandra Eguiluz I am a Peruvian artist, web developer and educator based in Paris since 2013.
+### Hi, I am Alexandra Eguiluz I am a Peruvian artist, web developer and educator based in Paris since 2013. :wave:
 
 ### What I am working on right now 👀
 
