@@ -4,11 +4,11 @@ I am a Peruvian artist, web developer and educator based in Paris since 2013.
 
 ### What I am working on right now 👀
 
-At this moment I am in the middle of a web development training at [Social Builder](https://socialbuilder.org/formation-developpeuse-web/) in partnership with WebForce3. 
+At this moment I am in the middle of my web development training at [Social Builder](https://socialbuilder.org/formation-developpeuse-web/) in partnership with WebForce3. 
 
-I am currently teacher in the department of Fine Arts and Communication Design at [Paris College of Art](https://www.paris.edu/) and I am part of [Teaching to Transgress Toolbox](http://ttttoolbox.net/r/About.md), a collective research and study programme on critical pedagogy using artistic tools based on peer-learning and collective research.
+I am currently a teacher in the department of Fine Arts and Communication Design at [Paris College of Art](https://www.paris.edu/). I am part of [Teaching to Transgress Toolbox](http://ttttoolbox.net/r/About.md), a collective research and study programme on critical pedagogy using artistic tools based on peer-learning and collective research.
 
-I am producing a [digital archive](https://loasis.site/) within the framework of a project called Fragments of Repair, a collective study program that is organized by BAK with the artist Kader Attia. I am in charge of developing the website, producing and managing its content.
+I am developing a [digital archive](https://loasis.site/) within the framework of a project called Fragments of Repair, a collective study program that is organized by BAK and the artist Kader Attia. I am in charge of developing the website, producing and managing its content.
 
 ### Teaching and Web 💻
 
